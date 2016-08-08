@@ -1,0 +1,29 @@
+_repo: Preliminary-Report-of-the-Commission-Appointed-by-the-University-of-Pennsylvania-to-Investiga__11950
+_version: 0.0.1
+creator:
+  author:
+    agent_name: University of Pennsylvania. Seybert Commission for Investigating Modern
+      Spiritualism
+    aliases:
+    - Spiritualism, Seybert Commission for Investigating Modern
+    - Seybert Commission for Investigating Modern Spiritualism
+    gutenberg_agent_id: '4146'
+    url: http://www.gutenberg.org/2009/agents/4146
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Parapsychology -- Investigation'
+- GITenberg
+title: "Preliminary Report of the Commission Appointed by the University of Pennsylvania\
+  \ to Investigate Modern Spiritualism\r\nIn Accordance with the Request of the Late\
+  \ Henry Seybert"
+url: http://www.gutenberg.org/ebooks/11950
